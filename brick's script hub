@@ -1,4 +1,4 @@
-wait(1.5)
+wait(0.5)
 print("Brick's Script Hub has been loaded. Have fun exploiting!")
 
 -- Instances:
